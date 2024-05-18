@@ -1,4 +1,4 @@
-![header](https://raw.githubusercontent.com/phuc1dev/phuc1dev/main/assets/svg/header.svg)
+![header](https://raw.githubusercontent.com/junomc/junomc/main/assets/svg/header.svg)
 ![](https://komarev.com/ghpvc/?username=phuc1dev&label=PROFILE+VIEWS&abbreviated=true)  
 Welcome to my GitHub profile! I'm a programmer specializing in **C#**, **NodeJS**, **PHP** and **Java**. I love building scalable web applications, exploring new technologies, and contributing to open-source projects.
 
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a programmer specializing in **C#**, **NodeJS*
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=phuc1dev&show_icons=true&theme=transparent)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=junomc&show_icons=true&theme=transparent)
 
 
 ## 🌐 Contact
